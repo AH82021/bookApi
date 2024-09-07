@@ -37,7 +37,7 @@ A RESTful API for managing books using Node.js, Express, and MongoDB. This API s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/book-api.git
+   git clone https://github.com/AH82021/bookApi.git
    cd book-api
    ```
 
@@ -237,5 +237,8 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```css
+This `README.md` file includes installation instructions, usage information, testing details, and contribution guidelines for your Book API project.
 ```
 
