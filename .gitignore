@@ -1,0 +1,39 @@
+
+
+```gitignore
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# IDE configuration files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Coverage reports
+coverage/
+
+# Misc
+*.swp
+*.swo
+*.swn
